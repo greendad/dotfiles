@@ -1,0 +1,22 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "monospace",
+    "editor.minimap.enabled": false,
+
+   "npm-intellisense.importES6": false,
+    "npm-intellisense.importQuotes": "'",
+    "npm-intellisense.importLinebreak": ";\r\n",
+    "npm-intellisense.importDeclarationType": "const",
+
+   "prettier.singleQuote": true,
+    "prettier.cssEnable": [
+        "css",
+        "less",
+        "scss"
+    ],
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": false,
+
+   "workbench.editor.enablePreview": false
+}
