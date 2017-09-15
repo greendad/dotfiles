@@ -1,0 +1,5 @@
+alias w="cd ~/workspace"
+alias f="open -a Finder"
+alias rm="rm -rf"
+alias ip="ifconfig -a | grep -o 'inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[0-9]\+\)\|[a-fA-F0-9:]\+\)' | awk '{ sub(/inet6? (addr:)? ?/, \"\"); print }'"
+alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
